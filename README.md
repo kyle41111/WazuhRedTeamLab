@@ -3,6 +3,6 @@ I wanted to track some of the ttps/methods I was learning while in CRTO2. This i
 
 Research that helped:
 https://github.com/jsecurity101/TelemetrySource jsecurity for rev engineering sysmon and correlating events to win32 API calls.
-and as always; thanks to the spectreops bois
+and as always; thanks to the spectreops team
 https://posts.specterops.io/uncovering-the-unknowns-a47c93bb6971
 https://specterops.io/wp-content/uploads/sites/3/2022/06/Subverting_Sysmon.pdf
